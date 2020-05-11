@@ -1,0 +1,10 @@
+.-*sumAll: 199.0 || sumNumberOfPeople: 160.0
+./*sumAll: 201.0 || sumNumberOfPeople: 160.0
+.07sumAll: 369.70000000000005 || sumNumberOfPeople: 296.5
+.17sumAll: 383.0 || sumNumberOfPeople: 306.40000000000003
+.2*sumAll: 282.1 || sumNumberOfPeople: 208.5
+.3+sumAll: 1023.2 || sumNumberOfPeople: 820.3
+.4CsumAll: 1043.3999999999996 || sumNumberOfPeople: 833.4000000000001
+.5,sumAll: 1750.1 || sumNumberOfPeople: 1409.1
+.6*sumAll: 200.0 || sumNumberOfPeople: 120.0
+.8*sumAll: 200.0 || sumNumberOfPeople: 160.0
